@@ -18,7 +18,7 @@ attack corpus against all three platforms under identical conditions
 to ensure a fair, like-for-like comparison.
 
 ## Full Report
-See [abdulrahman.rahaq_IDS_Comparison.docx](./abdulrahman.rahaq_IDS_Comparison.docx) and [Abdulrahman.Rahaq.NIDS_Poster.pdf](./Abdulrahman.Rahaq.NIDS_Poster.pdf) for the 
+See [abdulrahman.rahaq_IDS_Comparison](./abdulrahman.rahaq_IDS_Comparison.pdf) and [Abdulrahman.Rahaq.NIDS_Poster](./Abdulrahman.Rahaq.NIDS_Poster.pdf) for the 
 complete 10,000-word writeup, poster, including detailed methodology, results, 
 and deployment recommendations.
 
